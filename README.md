@@ -3,7 +3,11 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Here I am development a Ruby on rails news web applcation.
+
+
+
+Things to cover for this web application:
 
 * Ruby version
 
